@@ -1,0 +1,7 @@
+com\app\service\MyService.class
+com\app\controller\MovieController.class
+com\app\service\MyService_I.class
+com\app\dbconfig\SourceDBConfig.class
+com\app\MyServerApp.class
+com\app\model\Movie.class
+com\app\repository\MovieRepository.class

@@ -1,0 +1,6 @@
+com\app\controller\MovieController.class
+com\app\model\MovieRating.class
+com\app\repository\MovieRatingRepository.class
+com\app\service\RatingService.class
+com\app\service\RatingService_I.class
+com\app\MyServerApp.class
